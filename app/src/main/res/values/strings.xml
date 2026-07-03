@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自動連點器</string>
+    <string name="accessibility_description">自動連點器需要此權限來模擬螢幕點擊操作</string>
+</resources>
